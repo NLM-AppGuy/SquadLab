@@ -13,11 +13,12 @@ It helps you turn the player attributes NLM shows at **Your Level** into a clear
 - Recommend a balanced **subs bench**
 - Show **squad health** and recruitment priorities
 - Compare every supported formation in **Tactic Effectiveness**
-- Add **scouted players** and compare them with your current squad
+- Add **scouted players** and see the actual impact they would have on your current squad
 - Move signed scouts directly into your squad
 - Identify players who may be outside your XI, bench and key cover
 - Manage multiple saves / clubs and start new seasons
 - Back up and restore your SquadLab data
+- Switch between **Dark Mode** and **Light Mode**
 
 SquadLab does **not** attempt to reverse-engineer hidden NLM player ability. It works only from the information the game shows you.
 
@@ -26,7 +27,7 @@ SquadLab does **not** attempt to reverse-engineer hidden NLM player ability. It 
 SquadLab is currently in beta.
 
 **Current platform:** Windows PC  
-**Current release:** v3.4.0 Beta
+**Current release:** v3.5.2 Beta 1
 
 Player entry is manual at this stage. If NLM adds a usable squad export in future, importing directly into SquadLab is something I hope to support.
 
@@ -40,6 +41,12 @@ Go to the **Releases** section of this repository and download the latest SquadL
 2. Extract the ZIP
 3. Run the `Install SquadLab ...` installer
 4. Launch SquadLab from the desktop / Start Menu shortcut
+
+### Updating
+
+Install the newer SquadLab release directly over your existing version. Your local squad data is retained.
+
+I still recommend using **Backup & Import → Back Up Now** before beta updates.
 
 ### Windows warning
 

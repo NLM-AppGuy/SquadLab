@@ -1,5 +1,32 @@
 # Changelog
 
+## v3.5.2 Beta 1
+
+### Formation accuracy
+- Reviewed all supported formations against NLM
+- **4-3-3** now uses **1 CDM + 2 CM**
+- **3-5-2** now uses **LB / RB + 2 CM + CAM**
+- **3-4-3** now uses **LB / RB + 2 CM + LW / ST / RW**
+- Best XI, Squad Health, recruitment priorities, Tactic Effectiveness and scouting comparisons all use the corrected formation definitions
+
+### Scouted-player Squad Impact
+- Clearer squad-impact section on every scouted-player card
+- Verdicts now show:
+  - **NEW #1**
+  - **IMPROVES STARTING XI**
+  - **IMPROVES SQUAD DEPTH**
+  - **NO SQUAD UPGRADE**
+- Shows where the scout would rank and the numerical improvement against the relevant current squad option
+- Added **Squad Impact** sorting
+- Impact verdict pills now use stronger solid RAG colours for easier scanning
+
+### UI / UX
+- Added **Light Mode / Dark Mode** toggle
+- Theme preference is remembered locally
+- Refined the interface to feel less like a generic dashboard and more like a football-management companion
+- Improved light-mode contrast, form controls, pitch labels and modal readability
+- Restored the core SquadLab yellow brand treatment consistently in both themes
+
 ## v3.4.0 Beta
 
 ### Added
